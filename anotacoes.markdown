@@ -7,3 +7,9 @@ npx react-native init Nome-projeto
 npm start   
 
 npm run android
+
+
+## Selecionar várias palavras iguais para editar
+
+    Ctrl + D 
+    
