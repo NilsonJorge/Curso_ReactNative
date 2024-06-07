@@ -12,4 +12,9 @@ npm run android
 ## Selecionar várias palavras iguais para editar
 
     Ctrl + D 
-    
+
+## Comentar
+
+    Ctrl + ;
+
+## Props é somente leitura
